@@ -1,0 +1,95 @@
+header{
+    text-align: center;
+}
+#div1{
+    border-radius: 15px;
+    width: 100%;
+    height: 80px;
+    background-color: crimson;
+    border: 3px solid rgb(70, 69, 69);
+}
+#p1{
+    margin-top: 0;
+    color: whitesmoke;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr{
+    padding: 3px;
+    border-radius: 20px;
+    background-color: crimson;
+    border: 1px solid rgb(70, 69, 69);
+}
+#h1-1{
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(43, 42, 42);
+    border-radius: 5px;
+    border-style: double;
+}
+#div2{
+    float: left;
+    max-width: 400px;
+    border-radius: 20px;
+    border: 5px solid crimson;
+    margin-left: 5px;
+
+}
+#p2{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+html{
+    background-color: rgb(252, 252, 201);
+}
+#div3{
+    max-width: 400px;
+    position: relative;
+    border: 3px solid blue;
+    float: left;
+    border-radius: 20px;
+    margin-left: 5px;
+
+}
+#div4{
+    max-width: 400px;
+    border: 3px solid green;
+    float: left;
+    border-radius: 20px;
+    margin-left: 5px;
+
+}
+#p3{
+    font-size: larger;
+    color: whitesmoke;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    list-style: none;
+    padding: 20px;
+    font-size: larger;
+}
+li a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    border: 3px solid rgb(43, 42, 42);
+    border-radius: 20px;
+    background-color: rgb(252, 252, 201);
+}
+li a:hover{
+    background-color: rgb(43, 42, 42);
+    color: whitesmoke;
+}
+
+#article1{
+    margin: 5px;
+}

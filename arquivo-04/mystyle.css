@@ -1,0 +1,31 @@
+.quadrado{
+    background-color: rgb(26, 170, 26);
+    height: 10rem;
+    width: 10rem;
+    float: left;
+    margin-left: 1rem;
+    border-radius: 10px;
+}
+.box{
+    margin: 2.5rem;
+    background-color: white;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 10px;
+}
+.conteiner{
+    margin-top: 2.5rem;
+}
+
+header{
+    background-color: rgb(78, 78, 80);
+    position: initial;
+    height: 5rem;
+    border-style: double;
+    text-align: center;
+    color: white;
+}
+
+html{
+    background-color: rgb(39, 38, 43);
+}
